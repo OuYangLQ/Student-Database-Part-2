@@ -66,3 +66,4 @@ touch student_info.sh
 chmod +x student_info.sh
 vim student_info.sh
 vim student_info.sh
+vim student_info.sh
